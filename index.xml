@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sam Tiéfolo Diabaté</title>
+    <link>https://samueldi.github.io/</link>
+      <atom:link href="https://samueldi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sam Tiéfolo Diabaté</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Samuel Tiéfolo Diabaté</copyright><lastBuildDate>Fri, 22 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://samueldi.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Sam Tiéfolo Diabaté</title>
+      <link>https://samueldi.github.io/</link>
+    </image>
+    
+    <item>
+      <title>(2021) Spreadsheets for GSNW, KEI and tide gauge derived sea-level modes</title>
+      <link>https://samueldi.github.io/data/about/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://samueldi.github.io/data/about/</guid>
+      <description>&lt;p&gt;The following link provides link towards the Gulf Stream North Wall (GSNW) index and the Kuroshio Extension (KE) index presented in the paper &amp;lsquo;Western boundary circulation and coastal sea-level variability in Northern Hemisphere oceans&amp;rsquo;, Samuel Tiéfolo Diabaté et al. (2021)
+&lt;a href=&#34;https://doi.org/10.5281/zenodo.4659318&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.5281/zenodo.4659318&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The publication is:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Diabaté, S. T., Swingedouw, D., Hirschi, J. J.-M., Duchez, A., Leadbitter, P. J., Haigh, I. D., and McCarthy, G. D.: Western boundary circulation and coastal sea-level variability in Northern Hemisphere oceans, Ocean Sci., 17, 1449–1471, &lt;a href=&#34;https://doi.org/10.5194/os-17-1449-2021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.5194/os-17-1449-2021&lt;/a&gt;, 2021.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To cite these data, please cite the aforementioned paper and the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Diabaté, S. T., Swingedouw, D., Hirschi, J. J.-M., Duchez, A., Lead- bitter, P. J., Haigh, I. D., and McCarthy, G. D.: Spreadsheets for GSNW, KEI and tide gauge derived sea-level modes, Zenodo [data set], &lt;a href=&#34;https://doi.org/10.5281/zenodo.4659318&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.5281/zenodo.4659318&lt;/a&gt;, 2021&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Meet the Team</title>
+      <link>https://samueldi.github.io/people/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://samueldi.github.io/people/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Western boundary circulation and coastal sea-level variability in Northern Hemisphere oceans</title>
+      <link>https://samueldi.github.io/publication/journal-article/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://samueldi.github.io/publication/journal-article/</guid>
+      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;DOI&lt;/em&gt; button above to access the paper page on the journal website. Click the &lt;em&gt;PDF&lt;/em&gt; button to access the PDF file directly. To import the publication metadata, you can click on the &lt;em&gt;Cite&lt;/em&gt; button. The timeseries produced for this paper can be interesting to some, and they are freely available by clicking on the &lt;em&gt;Dataset&lt;/em&gt; button above. Alternatively, these data can be found on this website, by navigating to the &lt;strong&gt;Data&lt;/strong&gt; menu.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(2021) Western boundary circulation and sea level patterns in northern hemisphere oceans</title>
+      <link>https://samueldi.github.io/talks/egu21/</link>
+      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://samueldi.github.io/talks/egu21/</guid>
+      <description>&lt;p&gt;I presented some of my work on the link between western boundary current paths and the variability of the nearby coastal sea-level variability at the EGU General Assembly in spring 2021.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Souvenir from Courtown, Ireland</title>
+      <link>https://samueldi.github.io/post/21-12-23-a-souvenir-from-courtown/</link>
+      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://samueldi.github.io/post/21-12-23-a-souvenir-from-courtown/</guid>
+      <description>&lt;p&gt;Turning around the tide gauge in Courtown port, Ireland.&lt;/p&gt;
+&lt;p&gt;In April 2021, we spend a day with Gerard McCarthy turning around the tide gauge in Courtown harbour, Ireland. Courtown is located south of Dublin and faces the Irish Sea. The tides of Courtown are particularly interesting (they are quarter-diurnal at neaps). Changing tides are one of the plausible reasons for the disapearing beach just a few tens of meters to the north of Courtown port. For an in-depth analysis of the effect that this beach disappearance has on place attachment and on individual and community well-being, see the wonderful paper from Chris Phillips (Maynooth University scholar) on solastalgia: &lt;a href=&#34;https://doi.org/10.1007/s10113-021-01778-y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1007/s10113-021-01778-y&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A Souvenir from Castletownsend, Ireland</title>
+      <link>https://samueldi.github.io/post/19-08-01-a-souvenir-from-castletownsend/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://samueldi.github.io/post/19-08-01-a-souvenir-from-castletownsend/</guid>
+      <description>&lt;p&gt;This is an ideal test for this first website!
+A souvenir of a field work during the summer 2019 with Gerard McCarthy and David Pugh.&lt;/p&gt;
+&lt;p&gt;We spend a week on the road of Ireland to locate benchmarks from the 19th century and mid-20th century, used for tide gauge leveling at the time. This particular pic of me was taken by David in Castletownsend.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A Souvenir from Cotonou, Benin</title>
+      <link>https://samueldi.github.io/post/21-12-23-a-souvenir-from-cotonou/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://samueldi.github.io/post/21-12-23-a-souvenir-from-cotonou/</guid>
+      <description>&lt;p&gt;A souvenir from Cotonou, Benin, with the other students from the Master 2 &amp;lsquo;Océanographie et applications&amp;rsquo;.&lt;/p&gt;
+&lt;p&gt;I keep very good memories of my year in Benin, where I pursued my formation in physical oceanography between 2018 and 2019.&lt;/p&gt;
+&lt;p&gt;This picture was taken in December 2018, in front of the building of the International Chair in Mathematical Physics and Applications (ICMPA), where the courses took place. From left to right: Fernand Assene, Guy-Edgar Milend Mbeh, Thierry Derol Awoulmbang Sakpak, Catherine Jeandel (lecturer, CNRS, Toulouse), Wilfried Domingo, Adeola Dahunsi, Arnaud Kouekam, Léonard Worou, and me. We graduated in September 2019.&lt;/p&gt;
+&lt;p&gt;Most of us now work in oceanography, meteorology, or related fields. In particular,&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fernand works on turbulent mixing and internal tides in the equatorial Atlantic. His first lead-authored paper can be accessed here &lt;a href=&#34;https://doi.org/10.3390/fluids5030147&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.3390/fluids5030147&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Arnaud works on dynamical changes of sandy beach in the Gulf of Guinea. Last research can be seen here: &lt;a href=&#34;https://doi.org/10.1190/INT-2021-0023.1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1190/INT-2021-0023.1&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Thierry and Adeola have co-authored papers which can be found online.&lt;/li&gt;
+&lt;li&gt;Keep an eye out for the others!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Cheers,&lt;/p&gt;
+&lt;p&gt;S.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://samueldi.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://samueldi.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://samueldi.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://samueldi.github.io/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://samueldi.github.io/data/march2021/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://samueldi.github.io/data/march2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://samueldi.github.io/talks/example/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://samueldi.github.io/talks/example/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

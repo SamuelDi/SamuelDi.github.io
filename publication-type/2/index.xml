@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Sam Tiéfolo Diabaté</title>
+    <link>https://samueldi.github.io/publication-type/2/</link>
+      <atom:link href="https://samueldi.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Samuel Tiéfolo Diabaté</copyright><lastBuildDate>Fri, 22 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://samueldi.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://samueldi.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Western boundary circulation and coastal sea-level variability in Northern Hemisphere oceans</title>
+      <link>https://samueldi.github.io/publication/journal-article/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://samueldi.github.io/publication/journal-article/</guid>
+      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;DOI&lt;/em&gt; button above to access the paper page on the journal website. Click the &lt;em&gt;PDF&lt;/em&gt; button to access the PDF file directly. To import the publication metadata, you can click on the &lt;em&gt;Cite&lt;/em&gt; button. The timeseries produced for this paper can be interesting to some, and they are freely available by clicking on the &lt;em&gt;Dataset&lt;/em&gt; button above. Alternatively, these data can be found on this website, by navigating to the &lt;strong&gt;Data&lt;/strong&gt; menu.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

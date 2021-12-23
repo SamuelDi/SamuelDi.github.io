@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Past &amp; Upcoming Talks (and posters) | Sam Tiéfolo Diabaté</title>
+    <link>https://samueldi.github.io/talks/</link>
+      <atom:link href="https://samueldi.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Past &amp; Upcoming Talks (and posters)</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Samuel Tiéfolo Diabaté</copyright><lastBuildDate>Mon, 26 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://samueldi.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Past &amp; Upcoming Talks (and posters)</title>
+      <link>https://samueldi.github.io/talks/</link>
+    </image>
+    
+    <item>
+      <title>(2021) Western boundary circulation and sea level patterns in northern hemisphere oceans</title>
+      <link>https://samueldi.github.io/talks/egu21/</link>
+      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://samueldi.github.io/talks/egu21/</guid>
+      <description>&lt;p&gt;I presented some of my work on the link between western boundary current paths and the variability of the nearby coastal sea-level variability at the EGU General Assembly in spring 2021.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://samueldi.github.io/talks/example/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://samueldi.github.io/talks/example/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
