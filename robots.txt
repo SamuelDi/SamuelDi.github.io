@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://samueldi.github.io/sitemap.xml
+Sitemap: https://SamuelDi.github.io/sitemap.xml
