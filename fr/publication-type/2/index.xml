@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Sam Tiéfolo Diabaté</title>
+    <link>https://SamuelDi.github.io/fr/publication-type/2/</link>
+      <atom:link href="https://SamuelDi.github.io/fr/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>fr-FR</language><copyright>© Samuel Tiéfolo Diabaté</copyright><lastBuildDate>Fri, 22 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://SamuelDi.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://SamuelDi.github.io/fr/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Western boundary circulation and coastal sea-level variability in Northern Hemisphere oceans</title>
+      <link>https://SamuelDi.github.io/fr/publication/journal-article/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://SamuelDi.github.io/fr/publication/journal-article/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    A plain language explanation of the results of the paper and their implications for future research is given in &lt;a href=&#34;https://SamuelDi.github.io/fr/post/21-10-23-firstpublication/&#34;&gt;this blog post &lt;/a&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Cliquez sur le bouton &lt;em&gt;DOI&lt;/em&gt; pour avoir accès à l&amp;rsquo;article sur le site internet du journal. Pour télécharger directement la version PDF, cliquez sur &lt;em&gt;PDF&lt;/em&gt;. Pour télécharger les metadatas de citation, cliquez sur le bouton &lt;em&gt;Citation&lt;/em&gt;. Les données décrites dans le papier peuvent être téléchargées en cliquant sur &lt;em&gt;Jeu de données&lt;/em&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
