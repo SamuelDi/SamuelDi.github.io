@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data | Sam Tiéfolo Diabaté</title>
+    <link>https://SamuelDi.github.io/fr/data/</link>
+      <atom:link href="https://SamuelDi.github.io/fr/data/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>fr-FR</language><copyright>© Samuel Tiéfolo Diabaté</copyright><lastBuildDate>Fri, 22 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://SamuelDi.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Data</title>
+      <link>https://SamuelDi.github.io/fr/data/</link>
+    </image>
+    
+    <item>
+      <title>(2021) Spreadsheets for GSNW, KEI and tide gauge derived sea-level modes</title>
+      <link>https://SamuelDi.github.io/fr/data/about/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://SamuelDi.github.io/fr/data/about/</guid>
+      <description>&lt;p&gt;The following link provides link towards the Gulf Stream North Wall (GSNW) index and the Kuroshio Extension (KE) index presented in the paper &amp;lsquo;Western boundary circulation and coastal sea-level variability in Northern Hemisphere oceans&amp;rsquo; (Diabaté et al; 2021).
+&lt;a href=&#34;https://doi.org/10.5281/zenodo.4659318&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.5281/zenodo.4659318&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The publication is:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Diabaté, S. T., Swingedouw, D., Hirschi, J. J.-M., Duchez, A., Leadbitter, P. J., Haigh, I. D., and McCarthy, G. D.: Western boundary circulation and coastal sea-level variability in Northern Hemisphere oceans, Ocean Sci., 17, 1449–1471, &lt;a href=&#34;https://doi.org/10.5194/os-17-1449-2021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.5194/os-17-1449-2021&lt;/a&gt;, 2021.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To cite these data, please cite the aforementioned paper and the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Diabaté, S. T., Swingedouw, D., Hirschi, J. J.-M., Duchez, A., Lead- bitter, P. J., Haigh, I. D., and McCarthy, G. D.: Spreadsheets for GSNW, KEI and tide gauge derived sea-level modes, Zenodo [data set], &lt;a href=&#34;https://doi.org/10.5281/zenodo.4659318&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.5281/zenodo.4659318&lt;/a&gt;, 2021&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://SamuelDi.github.io/fr/data/march2021/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://SamuelDi.github.io/fr/data/march2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

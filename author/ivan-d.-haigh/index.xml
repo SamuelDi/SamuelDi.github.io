@@ -5,7 +5,7 @@
     <link>https://SamuelDi.github.io/author/ivan-d.-haigh/</link>
       <atom:link href="https://SamuelDi.github.io/author/ivan-d.-haigh/index.xml" rel="self" type="application/rss+xml" />
     <description>Ivan D. Haigh</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Samuel Tiéfolo Diabaté</copyright><lastBuildDate>Fri, 22 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Samuel Tiéfolo Diabaté</copyright><lastBuildDate>Mon, 28 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://SamuelDi.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Ivan D. Haigh</title>
@@ -13,16 +13,54 @@
     </image>
     
     <item>
+      <title>(2022) Coastal Sea Level forced by Western Boundary Currents&#39; paths? The example of the Gulf Stream and of the Kuroshio.</title>
+      <link>https://SamuelDi.github.io/talks/osm22/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://SamuelDi.github.io/talks/osm22/</guid>
+      <description>&lt;p&gt;On the 28/02/2022, I gave a talk entitled &lt;em&gt;&amp;ldquo;Coastal Sea Level forced by Western Boundary Currents&#39; paths? The example of the Gulf Stream and of the Kuroshio&amp;rdquo;&lt;/em&gt; during the &lt;strong&gt;Ocean Sciences Meeting 2022 (OSM22)&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;The Gulf Stream and the Kuroshio are the two great western boundary currents of the northern hemisphere. The first emerges in the eponymous Gulf of Mexico, circumnavigates Florida, follows the eastern coast of the U.S. from which it detaches at Cape Hatteras to cross the North Atlantic towards Europe. The Kuroshio emerges east of the Philippino island of Luzon, then flows between Taiwan and the Japanese archipelago of the Ryūkyū Islands and joins the Pacific south of Japan. There, and in a similar fashion to the Gulf Stream, it detaches from the continental slope and meanders freely into the open ocean as the Kuroshio Extension.&lt;/p&gt;
+&lt;p&gt;Regional changes of sea level forced by changes in intensity and/or path of these two currents have been studied by many researchers, but always in an independent manner, i.e. with no comparison between the two regions. With my co-authors, we compared the relationship of the Gulf Stream and Kuroshio with coastal sea-level in their adjacent regions. We found both ressemblances and divergences.&lt;/p&gt;
+&lt;p&gt;My talk at OSM22 presented these results, which have also been summarised in a scientific publication &lt;a href=&#34;https://SamuelDi.github.io/publication/journal-article/os-17-1449-2021/&#34;&gt;(read more here)&lt;/a&gt;. My talk was part of the session &lt;em&gt;&amp;ldquo;OC03, Towards understanding coastal sea-level variability and change&amp;rdquo;&lt;/em&gt;. A recorded working version of my intervention can be read from the player below.&lt;/p&gt;
+&lt;p&gt;Due to COVID19, OSM22 was fully remote, as many other conferences over the past two years. This brings a number of new challenges. Nonetheless, OSM22 sessions that focused on coastal sea-level variability and change were very interesting. I believe the discussions they featured allowed many of the researchers who took part, including me, to advance in their research. I thank the organisers who did a fantastic job: Dr. Soenke Dangendorf, Dr. Marta Marcos, Dr. Alejandra Rodriguez Enriquez and Dr. Christopher Piecuch.&lt;/p&gt;
+&lt;p&gt;S.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;https://SamuelDi.github.io/media/OSM22_ShortPres.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+Courtesy of OSM22. This is a working version/a draft only. Contrary to what I say towards the end of the video, there was no breakout room after the presentations, but rather a discussion with all presenters and listeners, which was great.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Western boundary circulation and coastal sea-level variability in Northern Hemisphere oceans</title>
-      <link>https://SamuelDi.github.io/publication/journal-article/</link>
+      <link>https://SamuelDi.github.io/publication/journal-article/os-17-1449-2021/</link>
       <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://SamuelDi.github.io/publication/journal-article/</guid>
-      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+      <guid>https://SamuelDi.github.io/publication/journal-article/os-17-1449-2021/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    A plain language explanation of the results of the paper and their implications for future research is given in &lt;a href=&#34;https://SamuelDi.github.io/post/21-10-23-firstpublication/&#34;&gt;this blog post &lt;/a&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;DOI&lt;/em&gt; button above to access the paper page on the journal website. Click the &lt;em&gt;PDF&lt;/em&gt; button to access the PDF file directly. To import the publication metadata, you can click on the &lt;em&gt;Cite&lt;/em&gt; button. The timeseries produced for this paper can be interesting to some, and they are freely available by clicking on the &lt;em&gt;Dataset&lt;/em&gt; button above. Alternatively, these data can be found on this website, by navigating to the &lt;strong&gt;Data&lt;/strong&gt; menu.
   &lt;/div&gt;
 &lt;/div&gt;
+&lt;!-- Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
     
