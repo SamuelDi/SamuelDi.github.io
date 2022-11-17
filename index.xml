@@ -5,7 +5,7 @@
     <link>https://SamuelDi.github.io/</link>
       <atom:link href="https://SamuelDi.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Sam Tiéfolo Diabaté</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Samuel Tiéfolo Diabaté</copyright><lastBuildDate>Sun, 08 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Samuel Tiéfolo Diabaté</copyright><lastBuildDate>Sat, 15 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://SamuelDi.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Sam Tiéfolo Diabaté</title>
@@ -36,6 +36,142 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://SamuelDi.github.io/people/people/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Recovering German and Irish moorings Southwest of Ireland. A campaign on the new Irish Research Vessel (RV) Tom Crean.</title>
+      <link>https://SamuelDi.github.io/post/22-10-15-tc22008/</link>
+      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://SamuelDi.github.io/post/22-10-15-tc22008/</guid>
+      <description>&lt;p&gt;The one-week long Aimsir/EirOOS survey ended a couple of weeks ago and was the first physical oceanography campaign of the new Irish Research Vessel (RV) Tom Crean. Our primary goal was to recover three moorings located southwest of Ireland, on an offshore underwater plateau known as Goban Spur. This campaign was carried out as a collaboration between three different ocean research institutions: 1) Maynooth University with scientists from the A4 project; 2) the Marine Institute; and 3) the Federal Maritime and Hydrographic Agency of Germany (in German, Bundesamt für Seeschifffahrt und Hydrographie, or BSH).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Mooring_%28oceanography%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Moorings&lt;/a&gt; are instrument arrays anchored on the sea floor which sample the water column for an extended amount of time (from months to years). In recent years, a network of moorings has been measuring water properties at the Goban Spur (13&lt;span&gt;°&lt;/span&gt;E, 49&lt;span&gt;°&lt;/span&gt;N). In 2016, German scientists of BSH (the Federal Maritime and Hydrographic Agency of Germany) deployed three &lt;strong&gt;EB&lt;/strong&gt; moorings on the deeper part of the Goban Spur, while in 2020, the Marine Institute filled in the gap between the German moorings and the Irish coastline with additional &lt;strong&gt;EBS&lt;/strong&gt; moorings. The mooring geographical locations, reminding of the &amp;lsquo;OMEX&amp;rsquo; mooring array deployed in the mid-90s, were chosen to close the eastern boundary of the NOAC line, a basinwide mooring array measuring the &lt;a href=&#34;https://en.wikipedia.org/wiki/Atlantic_meridional_overturning_circulation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;North Atlantic conveyor belt circulation&lt;/a&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-a-general-bathymetry-map-of-the-region-southwest-of-ireland-showing-also-the-mooring-locations-as-colour-filled-circle-as-well-as-the-planned-and-effective-ctd-stations-displayed-as-light-and-dark-crosses-the-mobilisation-and-demobilisation-ports-respectfully-cork-and-galway-are-also-indicated-despite-being-indicated-here-ebs5-was-not-recovered-b-zoom-in-on-the-goban-spur-where-most-of-the-action-took-place-markers-are-the-same-as-on-a-only-planned-ctd-stations-are-not-shown--image-credit-gerard-d-mccarthy&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;(a) General bathymetry map of the region Southwest of Ireland, showing also the mooring locations as colour filled circle) as well as the planned and effective CTD stations displayed as light and dark crosses. The mobilisation and demobilisation ports, respectfully Cork and Galway, are also indicated. Despite being indicated here, EBS5 was not recovered. (b) Zoom in on the Goban Spur, where most of the action took place. Markers are the same as on (a), only planned CTD stations are not shown.  **Image credit: Gerard D. McCarthy**.&#34; srcset=&#34;
+               /media/TC22008/map_hu6d4f72be8b37c9b33c1c1055d4ee3ab5_358051_229adcbf69cf768e9ae1206207195d92.png 400w,
+               /media/TC22008/map_hu6d4f72be8b37c9b33c1c1055d4ee3ab5_358051_d069ba76b37e0e9727f9c0ac07d2a970.png 760w,
+               /media/TC22008/map_hu6d4f72be8b37c9b33c1c1055d4ee3ab5_358051_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://SamuelDi.github.io/media/TC22008/map_hu6d4f72be8b37c9b33c1c1055d4ee3ab5_358051_229adcbf69cf768e9ae1206207195d92.png&#34;
+               width=&#34;760&#34;
+               height=&#34;396&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      (a) General bathymetry map of the region Southwest of Ireland, showing also the mooring locations as colour filled circle) as well as the planned and effective CTD stations displayed as light and dark crosses. The mobilisation and demobilisation ports, respectfully Cork and Galway, are also indicated. Despite being indicated here, EBS5 was not recovered. (b) Zoom in on the Goban Spur, where most of the action took place. Markers are the same as on (a), only planned CTD stations are not shown.  &lt;strong&gt;Image credit: Gerard D. McCarthy&lt;/strong&gt;.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;While moorings EB2 and EBS3 were lost, possibly due to trawling activity, three Goban Spur moorings (EB3, EB1 and EBS1) and one shallow mooring (EBS5) sampled the ocean for an extended period. Recovery of these moorings was the primary goal of our cruise. These mooring locations are shown on the map above. The campaign was conducted on the RV Tom Crean between September 24th and 30th, and the principal investigator was Dr. Gerard McCarthy, my PhD supervisor.&lt;/p&gt;
+&lt;p&gt;The Maynooth University team, which was composed of Dr. Gerard McCarthy, Dr. Levke Caesar, Dr. André Düsterhus, Dr. Samantha Hallam, Dr. Stephen Ogungbenro and myself, met up with Dr. Manuela Köllner and Tobias Svensson from BSH on the Friday 23/09. We embarked the RV Tom Crean on the following day, joining Dr. Eoghan Daly, Alan Berry and Conall O&#39; Malley from the Marine Institute as well as the ship&amp;rsquo;s crew. We set sail on that day. Mooring EB3 was recovered on Monday 26/09. Rougher weather hindered mooring recovery until the Thursday 29/09, and the elapsed time was used as best as possible to conduct CTD profiles &lt;a href=&#34;https://SamuelDi.github.io/post/22-05-08-ce22008/&#34;&gt;(Don&amp;rsquo;t know what CTD stations are? Find out more info here)&lt;/a&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-dr-gerard-mccarthy-and-dr-eoghan-daly-on-a-coffee-break-image-credit-sam-t-diabaté&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;Dr. Gerard McCarthy and Dr. Eoghan Daly on a coffee break. **Image credit: Sam T. Diabaté.**&#34; srcset=&#34;
+               /media/TC22008/20220926_143733_hu69bdb8a02d0705858fa75bf86dc324cf_2819042_35aab319aea530db4078a5bd63249d65.jpg 400w,
+               /media/TC22008/20220926_143733_hu69bdb8a02d0705858fa75bf86dc324cf_2819042_5859f8825aef65556a0c98b7b08929dd.jpg 760w,
+               /media/TC22008/20220926_143733_hu69bdb8a02d0705858fa75bf86dc324cf_2819042_1200x1200_fit_q100_lanczos.jpg 1200w&#34;
+               src=&#34;https://SamuelDi.github.io/media/TC22008/20220926_143733_hu69bdb8a02d0705858fa75bf86dc324cf_2819042_35aab319aea530db4078a5bd63249d65.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;343&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Dr. Gerard McCarthy and Dr. Eoghan Daly on a coffee break. &lt;strong&gt;Image credit: Sam T. Diabaté.&lt;/strong&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;Mooring EBS1 and EB1 were recovered on the Thursday 29/09, and it was decided to sail towards land immediately after because of the sea condition worsening. We fled ahead of the storm and reached  &amp;mdash; not without trouble  &amp;mdash;  Galway Bay on the evening of Friday 29/09. We disembarked on the following morning.&lt;/p&gt;
+&lt;!-- On this cruise my primary role was to assist with mooring operations, as I had done previously aboard the RRS James Cook.--&gt; Together with Dr. Samantha Hallam, I cleaned up the moored instruments recovered from the mooring lines, downloaded the data from the MicroCATs, set up the instruments for calibration dips, and more broadly facilitated the smooth running of the mooring operations headed by Dr. Manuela Köllner (for EB1 and EB3) and Conall O&#39; Malley (for EBS1).
+&lt;p&gt;I was also in charge of the Vessel Mounted Acoustic Doppler Current Profiler (VmADCP), which is an instrument designed to measure the water velocity (currents) of the water column below the ship keel. The VmADCP aboard the RV Tom Crean is a Pinnacle 45 from Teledyne RDI, a particularly modern instrument which allows to perform a novel acquisition method referred to as &amp;lsquo;interleaved&amp;rsquo;. This new method comes with new processing challenges, which I was able to circumvent with help of Pr. Jules Hummon of University of Hawaii who was contacted by mail. Next month, Gerard and I will be taking part in a workshop organised by Dr. Eoghan Daly on VmADCP acquisition and data processing.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-rv-tom-crean-in-galway-harbour-on-demobilisation-day-image-credit-sam-t-diabaté&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;The RV Tom Crean in Galway harbour on demobilisation day. **Image credit: Sam T. Diabaté.**&#34; srcset=&#34;
+               /media/TC22008/20221001_102944_hue5f86fdfe6aec3860d9f48206f355920_2750915_301d9ca3f49507df54f319e987f5e19b.jpg 400w,
+               /media/TC22008/20221001_102944_hue5f86fdfe6aec3860d9f48206f355920_2750915_2d4db9c38970e6601c697ad737f811c0.jpg 760w,
+               /media/TC22008/20221001_102944_hue5f86fdfe6aec3860d9f48206f355920_2750915_1200x1200_fit_q100_lanczos.jpg 1200w&#34;
+               src=&#34;https://SamuelDi.github.io/media/TC22008/20221001_102944_hue5f86fdfe6aec3860d9f48206f355920_2750915_301d9ca3f49507df54f319e987f5e19b.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;343&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The RV Tom Crean in Galway harbour on demobilisation day. &lt;strong&gt;Image credit: Sam T. Diabaté.&lt;/strong&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;!-- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-scientists-and-crew-during-tc22008-image-credit-conall-o-maley&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;Scientists and crew during TC22008. Image credit: Conall O&amp;#39; Maley.&#34; srcset=&#34;
+               /media/TC22008/IMG-20220929-WA0002_hu9e491e39fcc61ccf2eba17d695a69660_186183_11f33a99d2206e801e6110858a27677c.jpg 400w,
+               /media/TC22008/IMG-20220929-WA0002_hu9e491e39fcc61ccf2eba17d695a69660_186183_acafd82047c8c6f0c490a064f5c6331d.jpg 760w,
+               /media/TC22008/IMG-20220929-WA0002_hu9e491e39fcc61ccf2eba17d695a69660_186183_1200x1200_fit_q100_lanczos.jpg 1200w&#34;
+               src=&#34;https://SamuelDi.github.io/media/TC22008/IMG-20220929-WA0002_hu9e491e39fcc61ccf2eba17d695a69660_186183_11f33a99d2206e801e6110858a27677c.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;429&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Scientists and crew during TC22008. Image credit: Conall O&#39; Maley.
+    &lt;/figcaption&gt;&lt;/figure&gt; --&gt;
+&lt;p&gt;The RV Tom Crean is a very modern ship, with a range of new assets to help scientists conduct research at sea. I was in particular impressed by the features of the dry laboratory. Scientists can now operate the CTD winch from a designated desk in the dry lab, provided the bridge has granted us control. The different screens in the lab are all connected to a central PC unit, and everything is accessible from a server, allowing researchers to quickly work on different ongoing measurements at a time (VmADC Profiling, but also swath bathymetry measurements, underway systems, CTD monitoring, etc.). The ship design makes life aboard comfortable and easy, with a gym, a TV space, a very comfortable dining room facing the galley, and plenty of room to work.&lt;/p&gt;
+&lt;p&gt;As on previous cruises I took part in, pods of common dolphins and pilot whales were common encounters. A camera was installed on the hull and allowed to see dolphins having great fun right beneath us. Colleagues Dr. Samantha Hallam and Alan Berry shared some wonderful footages on their social media, some of which can be seen below. Dr. Eoghan Daly also put together a video of our campaign which was shown during the RV Tom Crean commissioning ceremony, and it can be found below too.&lt;/p&gt;
+&lt;p&gt;Sam&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/LcMYa1LylzU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;&lt;a href=&#34;https://twitter.com/hashtag/Dolphins?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Dolphins&lt;/a&gt; 🐬 yesterday evening guiding the &lt;a href=&#34;https://twitter.com/MarineInst?ref_src=twsrc%5Etfw&#34;&gt;@MarineInst&lt;/a&gt; &lt;a href=&#34;https://twitter.com/Eir_OOS?ref_src=twsrc%5Etfw&#34;&gt;@Eir_OOS&lt;/a&gt; survey home ahead of the storm. 🥰 &lt;a href=&#34;https://t.co/EBdpf5HzNf&#34;&gt;https://t.co/EBdpf5HzNf&lt;/a&gt; &lt;a href=&#34;https://t.co/YKPG9c4ZAx&#34;&gt;pic.twitter.com/YKPG9c4ZAx&lt;/a&gt;&lt;/p&gt;&amp;mdash; Alan Berry (@alanpberry) &lt;a href=&#34;https://twitter.com/alanpberry/status/1575787967863750657?ref_src=twsrc%5Etfw&#34;&gt;September 30, 2022&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Last day at sea and force 8 this morning as we are homeward bound for Galway on &lt;a href=&#34;https://twitter.com/RVMarineInst?ref_src=twsrc%5Etfw&#34;&gt;@RVMarineInst&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/TomCrean?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#TomCrean&lt;/a&gt; we have had plenty of weather, and a lovely video today of the dolphin by the keel &lt;a href=&#34;https://twitter.com/Eir_OOS?ref_src=twsrc%5Etfw&#34;&gt;@Eir_OOS&lt;/a&gt; &lt;a href=&#34;https://twitter.com/a_ceathair?ref_src=twsrc%5Etfw&#34;&gt;@a_ceathair&lt;/a&gt; &lt;a href=&#34;https://twitter.com/ICARUS_Maynooth?ref_src=twsrc%5Etfw&#34;&gt;@ICARUS_Maynooth&lt;/a&gt; &lt;a href=&#34;https://twitter.com/Maynoothgeog?ref_src=twsrc%5Etfw&#34;&gt;@Maynoothgeog&lt;/a&gt; &lt;a href=&#34;https://twitter.com/MarineInst?ref_src=twsrc%5Etfw&#34;&gt;@MarineInst&lt;/a&gt; &lt;a href=&#34;https://t.co/tRp5ksAwVV&#34;&gt;pic.twitter.com/tRp5ksAwVV&lt;/a&gt;&lt;/p&gt;&amp;mdash; Samantha Hallam (@samhallam5) &lt;a href=&#34;https://twitter.com/samhallam5/status/1575972208752889856?ref_src=twsrc%5Etfw&#34;&gt;September 30, 2022&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;</description>
     </item>
     
     <item>
@@ -72,12 +208,12 @@
   &lt;/div&gt;&lt;figcaption&gt;
       View of Galway Bay from the Marine Institute. Image credit: Sam T. Diabaté.
     &lt;/figcaption&gt;&lt;/figure&gt;--&gt;
-&lt;p&gt;Since more than a decade, the Marine Institute has been conducting annual Ocean Climate Cruise along a route encompassing the Irish shelf and slope, the Porcupine Bank, the Rockall Trough and ending on the southern Rockall Plateau. This effort allows to monitor temporal changes in water properties such as temperature, salinity, oxygen levels, and flow speed. While satellite observations now play a crucial role in informing scientists about the ocean properties and flow at surface, in-situ measurements obtained thanks to oceanographic cruises remain vital to understand our planet climate, as they inform about the ocean interior. 
+&lt;p&gt;Since more than a decade, the Marine Institute has been conducting annual Ocean Climate Cruises along a route encompassing the Irish shelf and slope, the Porcupine Bank, the Rockall Trough and ending on the southern Rockall Plateau. This effort allows to monitor temporal changes in water properties such as temperature, salinity, oxygen levels, and flow speed. While satellite observations now play a crucial role in informing scientists about the ocean properties and flow at surface, in-situ measurements obtained thanks to oceanographic cruises remain vital to understand our planet climate, as they inform about the ocean interior. 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/4XfEme2M1IQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 &lt;/p&gt;
-&lt;p&gt;On Saturday 23rd April and Sunday 24th April, scientists boarded RV Celtic Explorer in the Port of Galway and joined the crew already aboard. Later on the Sunday, we set sail and began what was my first ever research campaign at sea. Over the course of the next two weeks, we completed more than forty profiles following the historical route (MIOC# stations, see map below) and two additional transects: the North&amp;ndash;South Porcupine Section and the Erris Head section (again, see map). 
+&lt;p&gt;On Saturday 23rd April and Sunday 24th April, scientists boarded RV Celtic Explorer in the Port of Galway and joined the crew already aboard. Later on the Sunday, we set sail and began what was my first ever research campaign at sea. Over the course of the following two weeks, we completed more than forty profiles following the historical route (MIOC# stations, see map below) and two additional transects: the North&amp;ndash;South Porcupine Section and the Erris Head section (again, see map). 
 
 
 
@@ -135,8 +271,8 @@
     &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;Aboard the RV Celtic Explorer, I was the CTD operator of the night shift team, meaning I was in charge of the PC from which data acquisition and Niskin bottle closure was controlled. I was in permanent radio contact with the winch driver and with the crew members working on deck, so that we could synchronise our actions. I was also in close contact with the bio-geo-chemist team lead (Dr. Janina V. Büscher), who would correspond to me depth levels of interest prior to each CTD profile.&lt;/p&gt;
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;M6 buoy successfully deployed from the &lt;a href=&#34;https://twitter.com/hashtag/RVCelticExplorer?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#RVCelticExplorer&lt;/a&gt; this week during CE22008 annual climate monitoring survey 2022. &lt;a href=&#34;https://twitter.com/MarineInst?ref_src=twsrc%5Etfw&#34;&gt;@MarineInst&lt;/a&gt; &lt;a href=&#34;https://twitter.com/Eir_OOS?ref_src=twsrc%5Etfw&#34;&gt;@Eir_OOS&lt;/a&gt; &lt;a href=&#34;https://t.co/Z31jP0bxHy&#34;&gt;pic.twitter.com/Z31jP0bxHy&lt;/a&gt;&lt;/p&gt;&amp;mdash; Marine Institute Research Vessels (@RVMarineInst) &lt;a href=&#34;https://twitter.com/RVMarineInst/status/1519930447379275776?ref_src=twsrc%5Etfw&#34;&gt;April 29, 2022&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-&lt;p&gt;In addition to the CTD profiles, we also turned around the M6 subsurface mooring and the M6 weather buoy. Moorings (and buoys) are measurement arrays which permanently stay at sea and therefore need regular refitting. The above tweet feature a nice drone video shot when we dropped the anchor in the water.&lt;/p&gt;
-&lt;p&gt;Lastly, we frequently enjoyed the company of marine mammals. We saw a large pod of common dolphin, and several pods of pilot whales.&lt;/p&gt;
+&lt;p&gt;In addition to the CTD profiles, we also turned around the M6 subsurface mooring and the M6 weather buoy. Moorings (and buoys) are measurement arrays which permanently stay at sea and therefore need regular refitting. The above tweet feature a nice drone video shot when we dropped the M6 buoy anchor in the water.&lt;/p&gt;
+&lt;p&gt;Lastly, we frequently enjoyed the company of marine mammals. We saw a large pod of common dolphins, and several pods of pilot whales.&lt;/p&gt;
 &lt;p&gt;Further pictures of the ship can be found below. Image credit: Sam T. Diabaté. From top to bottom:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Galway Port, with the RV Celtic Explorer in the entrance of the harbour prior to mobilisation,&lt;/li&gt;
@@ -282,7 +418,7 @@ Courtesy of OSM22. This is a working version/a draft only. Contrary to what I sa
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;Let me give a bit of context first. Due to global warming, sea level is rising across the globe. Interestingly however, this slow process is far from the only driver of sea-level variability. A common example known to most are the tides. Tides make the sea level rise and drop at diurnal and semi-diurnal frequencies (and others, I am not entering details here). Another example is the seasonal cycle: because the water is warmer in summer, water levels are found higher during this period of the year. At longer timescales &amp;mdash; yet shorter than the human-induced sea-level rise &amp;mdash; sea-level changes are dominated by the ocean internal variability. Water within the ocean is slowly moved around through changes in the transport and/or path of oceanic currents, through the westward propagation of eddies (large-scale swirls) or large-scale waves (known as Rossby waves), and through other processes. These mechanisms, together with change in ocean heat content, influence the pluri-annual to multidecadal variability of sea level, in a manner which differs from one location to another.&lt;/p&gt;
-&lt;p&gt;The variability of the sea level along the coast of Japan and of the east USA has received a lot of attention in recent years. This is in part because it is thought to be under the influence of the close-by Kuroshio and Gulf Stream, which are western boundary currents closing the subtropical gyres of the North Pacific and North Atlantic respectively. They are northwestward flowing jets which carry warm water towards high latitudes. A greater appreciation of the sea-level drivers could allow scientists to better understand these western boundary currents which are of great importance to the climate system. Also, the US and Japanese eastern seaboards are two of the most densely populated coastlines in the world. Hence, a greater understanding of sea-level variability in these regions could improve our response to the sea level related threat in a warming world.&lt;/p&gt;
+&lt;p&gt;The variability of the sea level along the coast of Japan and of the east USA has received a lot of attention in recent years. This is in part because it is thought to be under the influence of the close-by Kuroshio and Gulf Stream, which are western boundary currents closing the subtropical gyres of the North Pacific and North Atlantic respectively. They are northeastward flowing jets which carry warm water towards high latitudes. A greater appreciation of the sea-level drivers could allow scientists to better understand these western boundary currents which are of great importance to the climate system. Also, the US and Japanese eastern seaboards are two of the most densely populated coastlines in the world. Hence, a greater understanding of sea-level variability in these regions could improve our response to the sea level related threat in a warming world.&lt;/p&gt;
 &lt;p&gt;We found that the sea-level variability south of Japan and in the South Atlantic Bight is correlated to the north to south path shifts of the Kuroshio and of the Gulf Stream respectively. To be more precise, the coastal sea level in the upstream region (where the western boundary current flows along the coast) goes up when the western boundary current shifts north downstream of their detachment point. This relationship is illustrated in the figure above, which is adapted from &lt;a href=&#34;https://SamuelDi.github.io/talks/egu21/&#34;&gt;one of my talks&lt;/a&gt;. The panels present in shadings the comparison between the coastal sea-level in the US South Atlantic Bight (left) or south of Japan (right) and sea surface velocity magnitudes (well, sort of&amp;hellip; I am keeping it simple here). The shadings represent the difference between sea surface velocity magnitudes averaged over periods of high coastal sea level and over periods of low coastal sea levels. These composites inform us on how the western boundary current paths changed when sea level changed. It is apparent in these panels that sea surface velocity magnitudes drifted to the north when the sea level was high. In both oceans, this relationship had been previously observed, but only for the recent period when satellite measurements are available (that is, in this case, from 1993 onwards). We showed using indices based on ocean temperature profiles and tide gauges that this connection holds for the longer periods of 1948–2019 for the Atlantic and 1968–2019 for the Pacific.&lt;/p&gt;
 &lt;p&gt;The exact mechanisms which connects the upstream sea level and the path changes downstream are still unclear and may be relatively involved. Yoshi Sasaki and colleagues proposed that the two were linked through the propagation and breaking of oceanic large-scale waves (thousand of kilometers large!). Their theory, developped for the North Pacific, is particularly interesting. Other theories involve the western boundary current temperature, transport, or upstream paths (as opposed to downstream paths).&lt;/p&gt;
 &lt;p&gt;I thank the anonymous referee as well as Dr. Tal Ezer for their reviewing work. I also thank all my co-authors for their hard work!&lt;/p&gt;
