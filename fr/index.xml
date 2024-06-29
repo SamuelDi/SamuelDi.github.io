@@ -5,7 +5,7 @@
     <link>https://SamuelDi.github.io/fr/</link>
       <atom:link href="https://SamuelDi.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
     <description>Sam Tiéfolo Diabaté</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>fr-FR</language><copyright>© Samuel Tiéfolo Diabaté</copyright><lastBuildDate>Sat, 15 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>fr-FR</language><copyright>© Samuel Tiéfolo Diabaté</copyright><lastBuildDate>Sat, 21 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://SamuelDi.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Sam Tiéfolo Diabaté</title>
@@ -36,6 +36,250 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://SamuelDi.github.io/fr/people/people/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>A look back at last summer OSNAP cruise aboard the RRS James Cook.</title>
+      <link>https://SamuelDi.github.io/fr/post/23-01-21-jc238/</link>
+      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://SamuelDi.github.io/fr/post/23-01-21-jc238/</guid>
+      <description>&lt;p&gt;I spend last Summer at the Scottish Association for Marine Science (SAMS) in Scotland as a visiting PhD scientist working alongside Dr. Neil Fraser, a brilliant researcher with great knowledge of the European slope current and the Atlantic overturning meridional circulation. In July I had the opportunity to join a SAMS delegation of researcher, technicians and students to take part in the 2022 campaign of the Overturning in the Subpolar North Atlantic Program (OSNAP) whose primary aim was to turn around the main observing array of the &amp;lsquo;conveyor belt&amp;rsquo; circulation in the subpolar North Atlantic.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://en.wikipedia.org/wiki/Atlantic_meridional_overturning_circulation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Atlantic Overturning Meridional Circulation (AMOC)&lt;/a&gt; is a system of northward surface currents and equatorward deep currents in the North Atlantic forming the Great Ocean Conveyor Belt. It plays a major role in the redistribution of heat on our planet, therefore affecting the climate we live in. The AMOC is driven by subtle thermohaline density differences in the ocean, and is projected to collapse in the coming centuries due to anthropogenic emissions of greenhouse gases in the atmosphere. Such collapse would have catastrophic influences on Northern Hemisphere temperature and precipitation regimes, and on on North Atlantic sea levels, among other things. The AMOC is hence particularly observed. &lt;a href=&#34;https://www.o-snap.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Overturning in the Subpolar North Atlantic Program (OSNAP)&lt;/a&gt; is an observational mooring array which monitors the strength of the AMOC. It consists of numerous moorings anchored between the Labrador province of Canada, the southern tip of Greenland and Scotland (see schematic below).&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-osnap-array-schematic-mooring-positions-are-indicated-by-the-black-vertical-lines-while-yellow-circular-markers-represent-floatations-and-red-circular-markers-sensors-the-system-of-currents-of-the-amoc-and-of-the-subpolar-gyre-is-also-represented-image-credit-osnaphttpswwwo-snaporg&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;OSNAP array schematic. Mooring positions are indicated by the black vertical lines, while yellow circular markers represent floatations and red circular markers, sensors. The system of currents of the AMOC and of the subpolar gyre is also represented. Image credit: [OSNAP](https://www.o-snap.org/).&#34; srcset=&#34;
+               /media/JC238/osnap_array_schematic_20160401_huaae47369661446ceaaba7720e444a92b_2139765_65c07f138cf4da3c79163c2e0385a2cf.jpg 400w,
+               /media/JC238/osnap_array_schematic_20160401_huaae47369661446ceaaba7720e444a92b_2139765_fa31451aea449c68fd272d9d69139777.jpg 760w,
+               /media/JC238/osnap_array_schematic_20160401_huaae47369661446ceaaba7720e444a92b_2139765_1200x1200_fit_q100_lanczos.jpg 1200w&#34;
+               src=&#34;https://SamuelDi.github.io/media/JC238/osnap_array_schematic_20160401_huaae47369661446ceaaba7720e444a92b_2139765_65c07f138cf4da3c79163c2e0385a2cf.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;396&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      OSNAP array schematic. Mooring positions are indicated by the black vertical lines, while yellow circular markers represent floatations and red circular markers, sensors. The system of currents of the AMOC and of the subpolar gyre is also represented. Image credit: &lt;a href=&#34;https://www.o-snap.org/&#34;&gt;OSNAP&lt;/a&gt;.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;The main goal of our cruise, labelled JC238, was to turn around moorings deployed between the Icelandic Basin and Scotland during the previous campaign (2020), allowing to maintain and extend OSNAP as an 8 year old ocean observing system. Turning moorings around is essential to retrieve data collected by moored instruments and to allow for their reconditioning and redeployment. For each mooring, a retrieval of the old line and deployment of a new one must be performed. During the former, the mooring line with its instruments are brought in aboard the ship. Deployment is the reverse operation, where a new line with re-fitted instruments is put in the water. Both operations typically last several hours (depending on mooring line length and number of instruments installed).&lt;/p&gt;
+&lt;p&gt;The JC238 campaign took place between July 8th and July 31st, 2022 on the Royal Research Vessel James Cook, which we embarked in Southampton &amp;mdash; right in front of the National Oceanography Centre. The James Cook is a large ship for a research vessel, and certainly is the biggest I sailed on. It can host 30+ scientists on board, and approximately 20 crew and technicians. &lt;!-- A picture of the ship at quay prior to our departure can be found in the Tweet below  --&gt;&lt;/p&gt;
+&lt;!--
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;It&amp;#39;s proving to be a busy week for our Research Ships!&lt;br&gt;&lt;br&gt;Today &lt;a href=&#34;https://twitter.com/hashtag/RRSJamesCook?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#RRSJamesCook&lt;/a&gt; departed to the North Atlantic Subpolar Gyre on &lt;a href=&#34;https://twitter.com/hashtag/JC238?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#JC238&lt;/a&gt;. Learn more about the work here 💡 &lt;a href=&#34;https://t.co/iSkhLRQorv&#34;&gt;https://t.co/iSkhLRQorv&lt;/a&gt;&lt;br&gt;&lt;br&gt;Follow &lt;a href=&#34;https://twitter.com/uk_osnap?ref_src=twsrc%5Etfw&#34;&gt;@uk_osnap&lt;/a&gt; for updates on the expedition!&lt;a href=&#34;https://twitter.com/hashtag/NMF?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#NMF&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/OceanExploration?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#OceanExploration&lt;/a&gt; &lt;a href=&#34;https://t.co/OMEjiLH7Bk&#34;&gt;pic.twitter.com/OMEjiLH7Bk&lt;/a&gt;&lt;/p&gt;&amp;mdash; National Oceanography Centre (@NOCnews) &lt;a href=&#34;https://twitter.com/NOCnews/status/1546856717580996608?ref_src=twsrc%5Etfw&#34;&gt;July 12, 2022&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt; --&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-aft-deck-during-mooring-operations-image-credit-sam-t-diabaté&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;The aft-deck during mooring operations. Image credit: Sam T. Diabaté.&#34; srcset=&#34;
+               /media/JC238/20220716_092623_hu805946db9ebdd36ef734c56fb6e0290f_2759069_5b248a100ffd4d834f68249f07e8fe37.jpg 400w,
+               /media/JC238/20220716_092623_hu805946db9ebdd36ef734c56fb6e0290f_2759069_e120a7a4ea1ced807b4ac35e4a964abf.jpg 760w,
+               /media/JC238/20220716_092623_hu805946db9ebdd36ef734c56fb6e0290f_2759069_1200x1200_fit_q100_lanczos.jpg 1200w&#34;
+               src=&#34;https://SamuelDi.github.io/media/JC238/20220716_092623_hu805946db9ebdd36ef734c56fb6e0290f_2759069_5b248a100ffd4d834f68249f07e8fe37.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;343&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The aft-deck during mooring operations. Image credit: Sam T. Diabaté.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;It took the ship two days to sail through the English Channel and Irish Sea all the way to the shelf-edge west of Scotland. From there we proceeded to turn around the OSNAP moorings from east to west, up to approximately the Mid-Atlantic Ridge (see schematic above). There, the &lt;a href=&#34;https://tos.org/oceanography/assets/images/content/35-seim-title.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;US Research Vessel Neil Armstrong&lt;/a&gt; took over as planned to continue turning around moorings towards Greenland.&lt;/p&gt;
+&lt;p&gt;Our job done, we sailed back towards the British-Irish Isles. After having picked up a last mooring North of Scotland, the team of SAMS scientists (including me) was dropped off on July 28th in Ardmucknish Bay in front of SAMS, while the rest of the scientists, the technicians and the crew disembarked in Southampton on July 31st.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-unscrewing-from-its-syntactic-buoy-a-long-range-adcp-after-it-was-brought-in-the-hangar-pic-taken-by-dr-lewis-drysdale&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;Unscrewing from its syntactic buoy a long-range ADCP, after it was brought in the hangar. Pic taken by Dr. Lewis Drysdale. &#34; srcset=&#34;
+               /media/JC238/image014_hu9b10675dd1c3e30223ffd26e9e173130_955813_d95d63a085ef556a8ce1fc5fb01185f8.png 400w,
+               /media/JC238/image014_hu9b10675dd1c3e30223ffd26e9e173130_955813_b5443f8aad8aea1ffcfb93c36b590597.png 760w,
+               /media/JC238/image014_hu9b10675dd1c3e30223ffd26e9e173130_955813_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://SamuelDi.github.io/media/JC238/image014_hu9b10675dd1c3e30223ffd26e9e173130_955813_d95d63a085ef556a8ce1fc5fb01185f8.png&#34;
+               width=&#34;570&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Unscrewing from its syntactic buoy a long-range ADCP, after it was brought in the hangar. Pic taken by Dr. Lewis Drysdale.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;On the ship, I worked as part of the SAMS mooring operation team together with Dr. Lewis Drysdale and Estelle Dumont. We worked in close relationship with the UK National Marine Facilities (NMF) technicians onboard. During mooring retrievals and deployments, I assisted Lewis and Estelle on the aft-deck of the ship. Prior to turnarounds, we calibrated and prepared sensors to be deployed. We fitted them with new batteries, set sampling parameters and checked their good operation. For calibration, we mounted the temperature and salinity sensors (microCATS) on the CTD rosette which was casted to perform calibration dips.&lt;/p&gt;
+&lt;p&gt;I was also in charge of the editing and processing of current-meter data obtained from the moored ADCP (Acoustic Doppler Current Profiler) instruments. Lastly, I was tasked with half a dozen of marine mammal watches. These had to be completed before ramping up the swath sonar bathymetry imaging, which can be harmful to marine mammals. I was specifically trained as a marine mammal observer prior to the campaign and particularly enjoyed doing this job during JC238.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-a-step-forward-in-time-with-adeola-dahunsi-the-picture-on-the-left-was-taken-in-december-2018-when-adeola-and-i-were-classmates-of-the-master-_oceanography--applications_-this-particular-shot-was-taken-during-fieldwork-on-the-nokoué-lake-benin-four-years-later-jc238-allowed-us-to-meet-again-we-took-the-awesome-selfie-shown-on-the-right-a-couple-of-hours-before-i-disembarked-in-ardmucknish-bay-with-the-other-sams-scientists-image-credit-adeola-dahunsi--sam-diabaté&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;**A step forward in time with Adeola Dahunsi**. The picture on the **left** was taken in December 2018, when Adeola and I were classmates of the Master _Oceanography \&amp;amp; Applications_. This particular shot was taken during fieldwork on the Nokoué lake, Benin. **Four years later**, JC238 allowed us to meet again. We took the awesome selfie shown on the **right** a couple of hours before I disembarked in Ardmucknish Bay with the other SAMS scientists. Image credit: Adeola Dahunsi \&amp;amp; Sam Diabaté.&#34; srcset=&#34;
+               /media/JC238/PROFDAM2_hu8eddd0a2bb778c47f9741c2b7739c9cb_5832901_b9070325208b778467b83f1e7bc1b44f.png 400w,
+               /media/JC238/PROFDAM2_hu8eddd0a2bb778c47f9741c2b7739c9cb_5832901_8dfcde20b493a07a580a0c51103c6529.png 760w,
+               /media/JC238/PROFDAM2_hu8eddd0a2bb778c47f9741c2b7739c9cb_5832901_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://SamuelDi.github.io/media/JC238/PROFDAM2_hu8eddd0a2bb778c47f9741c2b7739c9cb_5832901_b9070325208b778467b83f1e7bc1b44f.png&#34;
+               width=&#34;760&#34;
+               height=&#34;502&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;strong&gt;A step forward in time with Adeola Dahunsi&lt;/strong&gt;. The picture on the &lt;strong&gt;left&lt;/strong&gt; was taken in December 2018, when Adeola and I were classmates of the Master &lt;em&gt;Oceanography &amp;amp; Applications&lt;/em&gt;. This particular shot was taken during fieldwork on the Nokoué lake, Benin. &lt;strong&gt;Four years later&lt;/strong&gt;, JC238 allowed us to meet again. We took the awesome selfie shown on the &lt;strong&gt;right&lt;/strong&gt; a couple of hours before I disembarked in Ardmucknish Bay with the other SAMS scientists. Image credit: Adeola Dahunsi &amp;amp; Sam Diabaté.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;Above all, cruise JC238 was for me an extraordinary human adventure. Lewis and Estelle were exceptionally kind and helpful. I learned a lot alongside them. I am also delighted to have met new colleagues and seen some familiar faces too! In particular I had great pleasure finding Adeola Dahunsi again after several years. Adeola and I were classmates during the academic year 2018 &amp;ndash; 2019. We took the Master &lt;em&gt;Oceanography &amp;amp; Applications&lt;/em&gt; taking place in Cotonou (Benin) and coordinated by University Toulouse III (France) and University of Abomey-Calavi (Benin). At the time, I was coming from Toulouse, while Adeola was joining from Nigeria. At the end of this Master, I went on to start my PhD here in Ireland (in November 2019), while Adeola then studied one year in Ghana before returning to Benin to start a PhD on sea wave dynamics and sediment transport in the Gulf of Guinea. Some of his work can be read &lt;a href=&#34;https://doi.org/10.3390/jmse10111581&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. I didn&amp;rsquo;t knew about Adeola would take part in JC238 as a junior scientist, nor did he knew that I was joining with the scientists from SAMS: we only realised we would see each other again a few weeks ahead of the cruise. It was a blessing to see Adeola again. Together we had plenty of fun, and I am very happy that we got to spend a bit of time together. We helped each other out with some of the work too. I was also delighted to meet the other early carreer scientists onboard and wish them all the best in their research career.&lt;/p&gt;
+&lt;!-- &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Today we stopped at Oban to disembark scientists from &lt;a href=&#34;https://twitter.com/SAMSoceannews?ref_src=twsrc%5Etfw&#34;&gt;@SAMSoceannews&lt;/a&gt; . Next stop &lt;a href=&#34;https://twitter.com/NOCnews?ref_src=twsrc%5Etfw&#34;&gt;@NOCnews&lt;/a&gt; . Many thanks to everyone for successful expedition and a great team effort. &lt;a href=&#34;https://twitter.com/hashtag/JC238?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;JC238&lt;/a&gt; &lt;a href=&#34;https://t.co/xHUw1sq4Lj&#34;&gt;pic.twitter.com/xHUw1sq4Lj&lt;/a&gt;&lt;/p&gt;&amp;mdash; UK OSNAP (@uk_osnap) &lt;a href=&#34;https://twitter.com/uk_osnap/status/1552693928532606983?ref_src=twsrc%5Etfw&#34;&gt;July 28, 2022&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt; --&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-scientists-and-national-marine-facilities-technicians-aboard-the-rrs-james-cook-during-jc238-the-picture-was-taken-in-ardmucknish-bay-right-before-the-sams-scientists-including-me-disembarked&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;Scientists and National Marine Facilities technicians aboard the RRS James Cook during JC238. The picture was taken in Ardmucknish Bay, right before the SAMS scientists (including me!) disembarked.&#34; srcset=&#34;
+               /media/JC238/FYxFsnBXgAECRvJ_hu180e9cfb0c41d896bf0b1918f3cf59a3_2231887_70c540a0e7c1e10ac134096971bc9392.jpeg 400w,
+               /media/JC238/FYxFsnBXgAECRvJ_hu180e9cfb0c41d896bf0b1918f3cf59a3_2231887_d50a8a275db50856d56ca74501b19be0.jpeg 760w,
+               /media/JC238/FYxFsnBXgAECRvJ_hu180e9cfb0c41d896bf0b1918f3cf59a3_2231887_1200x1200_fit_q100_lanczos.jpeg 1200w&#34;
+               src=&#34;https://SamuelDi.github.io/media/JC238/FYxFsnBXgAECRvJ_hu180e9cfb0c41d896bf0b1918f3cf59a3_2231887_70c540a0e7c1e10ac134096971bc9392.jpeg&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Scientists and National Marine Facilities technicians aboard the RRS James Cook during JC238. The picture was taken in Ardmucknish Bay, right before the SAMS scientists (including me!) disembarked.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;S.
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-Gallery&#34; href=&#34;https://SamuelDi.github.io/fr/post/23-01-21-jc238/Gallery/20220712_124910.jpg&#34; &gt;
+      &lt;img src=&#34;https://SamuelDi.github.io/fr/post/23-01-21-jc238/Gallery/20220712_124910_hu8b5ee91d17f7f1751baaf8eaa8a32982_2370621_0x190_resize_q100_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;20220712_124910.jpg&#34; width=&#34;422&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-Gallery&#34; href=&#34;https://SamuelDi.github.io/fr/post/23-01-21-jc238/Gallery/20220715_145708.jpg&#34; &gt;
+      &lt;img src=&#34;https://SamuelDi.github.io/fr/post/23-01-21-jc238/Gallery/20220715_145708_hu0afb60f02c006238c8ad9edfbd0d476b_3143859_0x190_resize_q100_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;20220715_145708.jpg&#34; width=&#34;422&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-Gallery&#34; href=&#34;https://SamuelDi.github.io/fr/post/23-01-21-jc238/Gallery/20220716_092623.jpg&#34; &gt;
+      &lt;img src=&#34;https://SamuelDi.github.io/fr/post/23-01-21-jc238/Gallery/20220716_092623_hu805946db9ebdd36ef734c56fb6e0290f_2759069_0x190_resize_q100_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;20220716_092623.jpg&#34; width=&#34;422&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-Gallery&#34; href=&#34;https://SamuelDi.github.io/fr/post/23-01-21-jc238/Gallery/20220716_131207.jpg&#34; &gt;
+      &lt;img src=&#34;https://SamuelDi.github.io/fr/post/23-01-21-jc238/Gallery/20220716_131207_hubcc4855ad48e8db4cf1ae81bf21b6448_2707023_0x190_resize_q100_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;20220716_131207.jpg&#34; width=&#34;422&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-Gallery&#34; href=&#34;https://SamuelDi.github.io/fr/post/23-01-21-jc238/Gallery/20220724_084027.jpg&#34; &gt;
+      &lt;img src=&#34;https://SamuelDi.github.io/fr/post/23-01-21-jc238/Gallery/20220724_084027_hu77e8f008be8e5acc65fb4514d0a3e513_2152230_0x190_resize_q100_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;20220724_084027.jpg&#34; width=&#34;422&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-Gallery&#34; href=&#34;https://SamuelDi.github.io/fr/post/23-01-21-jc238/Gallery/20220726_080933.jpg&#34; &gt;
+      &lt;img src=&#34;https://SamuelDi.github.io/fr/post/23-01-21-jc238/Gallery/20220726_080933_hu55248b167327ea07ced5e3a85bb7b3c2_2748877_0x190_resize_q100_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;20220726_080933.jpg&#34; width=&#34;422&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-Gallery&#34; href=&#34;https://SamuelDi.github.io/fr/post/23-01-21-jc238/Gallery/20220728_153804.jpg&#34; &gt;
+      &lt;img src=&#34;https://SamuelDi.github.io/fr/post/23-01-21-jc238/Gallery/20220728_153804_hu0447498dd417af72cd55bd4941c3ca91_2870681_0x190_resize_q100_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;20220728_153804.jpg&#34; width=&#34;422&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+
+&lt;/div&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -383,6 +627,7 @@ Courtesy of OSM22. This is a working version/a draft only. Contrary to what I sa
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Looking forward to the &lt;a href=&#34;https://twitter.com/a_ceathair?ref_src=twsrc%5Etfw&#34;&gt;@a_ceathair&lt;/a&gt; annual meeting today. We&amp;#39;ve had to move everything online so send a message if you&amp;#39;d like to join and I&amp;#39;ll forward the link. &lt;a href=&#34;https://t.co/yZC4jk5OG4&#34;&gt;pic.twitter.com/yZC4jk5OG4&lt;/a&gt;&lt;/p&gt;&amp;mdash; A4: Aigéin, Aeráid, &amp;amp; athrú Atlantaigh (@a_ceathair) &lt;a href=&#34;https://twitter.com/a_ceathair/status/1461226751548264450?ref_src=twsrc%5Etfw&#34;&gt;November 18, 2021&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
+
 &lt;p&gt;The first work package (WP1), which I am part of, focuses on the large scale Atlantic variability (currents, heat transport, heat exchanges, etc.). This work package is led by Gerard McCarthy, while Levke Caesar and I complete the team.  We work in strong connection with ROADMAP member Samantha Hallam, and PhD workers Emma Worthington (National Oceanography Centre Southampton) and Jamie Matthews (Imperial College London). We study the variability of the Gulf Stream, of the Atlantic Meridional Overturning Circulation (AMOC), and more broadly of the currents that make up the North Atlantic. Gerard and I also study the sea-level variability, and we are particularly interested in coastal areas, where sea-level changes are of upmost importance to humankind. Levke and Gerard have a long-standing interest for the AMOC.&lt;/p&gt;
 &lt;p&gt;The second package (WP2) is led by André Düsterhus and focuses on seasonal to decadal prediction (forecast, but on long timescales). Their work is made using statistical methods of prediction, and the outcomes of their research is quite diverse. For example, they try to create better prediction of the North Atlantic Oscillation and/or of others important proxies for Ireland weather using sea surface information (temperatures, in particular). They also work on forecasting fish population displacement around Ireland. A part of the team is also strongly focusing on statistical models of geological tide gauges, in link with work package 3.&lt;/p&gt;
 &lt;p&gt;The work package 3 (WP3), led by Robin Edwards, is mainly based in Trinity College Dublin and strongly function in connection with the two other work packages. Their efforts focus on reconstructing paleo sea-level variations using geological tide gauges. This is a technique which uses core sampling of salt marsh mud. Water levels are estimated based on the absence/presence of high-marsh/low-marsh species in the sample.&lt;/p&gt;
@@ -401,6 +646,7 @@ Courtesy of OSM22. This is a working version/a draft only. Contrary to what I sa
 &lt;p&gt;From Monday 25 October to Friday 29 October, I followed a one-week glider training hosted in PLOCAN, the Oceanographic platform of the Canary Islands. This glider school provided theoretical and practical training in underwater gliders to students coming from Europe and elsewhere in the world.&lt;/p&gt;
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;&lt;a href=&#34;https://twitter.com/hashtag/OceanGlider?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#OceanGlider&lt;/a&gt; lab still busy &amp;amp; crowded practicing on &lt;a href=&#34;https://twitter.com/SeaExplorerUUV?ref_src=twsrc%5Etfw&#34;&gt;@SeaExplorerUUV&lt;/a&gt; technology setting up glider units for tomorrow’s deployment &amp;amp; piloting in open waters &lt;a href=&#34;https://twitter.com/EUMarineRobots?ref_src=twsrc%5Etfw&#34;&gt;@EUMarineRobots&lt;/a&gt; &lt;a href=&#34;https://twitter.com/EuroGOOS?ref_src=twsrc%5Etfw&#34;&gt;@EuroGOOS&lt;/a&gt; &lt;a href=&#34;https://twitter.com/Euro_Sea?ref_src=twsrc%5Etfw&#34;&gt;@Euro_Sea&lt;/a&gt; &lt;a href=&#34;https://twitter.com/Groom2RI?ref_src=twsrc%5Etfw&#34;&gt;@Groom2RI&lt;/a&gt; &lt;a href=&#34;https://twitter.com/OceanPractices?ref_src=twsrc%5Etfw&#34;&gt;@OceanPractices&lt;/a&gt; &lt;a href=&#34;https://twitter.com/TechOceanS?ref_src=twsrc%5Etfw&#34;&gt;@TechOceanS&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/ICTSNews?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ICTSNews&lt;/a&gt; &lt;a href=&#34;https://twitter.com/agenciaiisi?ref_src=twsrc%5Etfw&#34;&gt;@agenciaiisi&lt;/a&gt; &lt;a href=&#34;https://twitter.com/plocan?ref_src=twsrc%5Etfw&#34;&gt;@plocan&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/GliderSchool2021?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#GliderSchool2021&lt;/a&gt; &lt;a href=&#34;https://t.co/SkLjWGN9wJ&#34;&gt;pic.twitter.com/SkLjWGN9wJ&lt;/a&gt;&lt;/p&gt;&amp;mdash; Carlos Barrera (@GliderPLOCAN) &lt;a href=&#34;https://twitter.com/GliderPLOCAN/status/1453723694820298763?ref_src=twsrc%5Etfw&#34;&gt;October 28, 2021&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
 
 &lt;p&gt;The glider school allowed me and the other students to manipulate the Slocum and Seaexplorer gliders, respectively from &lt;em&gt;Teledyne&lt;/em&gt; and &lt;em&gt;Alseamar&lt;/em&gt;. We also trained to use a surface vehicle, the Wave Glider from &lt;em&gt;Liquid Robotics&lt;/em&gt;. This vehicle relies on wave energy to move forward, making it, similarly to underwater glider, a (relatively) cheap technology. We had the opportunity to dismantle the gliders, review the remote control options offered by the glider manufacturers, and deploy the vehicles in the ocean.&lt;/p&gt;
 &lt;p&gt;This glider school was superb in many aspects. I feel very honoured to have met other scientists and doctorands working in subjects related to what I am doing. While the school was hard work, relaxing by the sea in the evening with the others allowed us to get to know one another. The water was as warm as the air (23° C) for most of the week, although the air temperature rose by Friday. This meant we could all enjoy some evening swims, which is an unusual thing to do during the last week of October. Discovering Gran Canaria was indeed a lovely experience.&lt;/p&gt;</description>
