@@ -27,134 +27,6 @@
                 href="https://SamuelDi.github.io/people/people/"
                 />
   </url><url>
-    <loc>https://SamuelDi.github.io/publication-type/3/</loc>
-    <lastmod>2024-07-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://SamuelDi.github.io/authors/</loc>
-    <lastmod>2024-07-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://SamuelDi.github.io/fr/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://SamuelDi.github.io/authors/"
-                />
-  </url><url>
-    <loc>https://SamuelDi.github.io/author/barbara-berx/</loc>
-    <lastmod>2024-07-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://SamuelDi.github.io/tag/eastern-boundary-currents/</loc>
-    <lastmod>2024-07-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://SamuelDi.github.io/author/gerard-d.-mccarthy/</loc>
-    <lastmod>2024-07-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://SamuelDi.github.io/fr/author/gerard-d.-mccarthy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://SamuelDi.github.io/author/gerard-d.-mccarthy/"
-                />
-  </url><url>
-    <loc>https://SamuelDi.github.io/author/louis-marie/</loc>
-    <lastmod>2024-07-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://SamuelDi.github.io/author/martin-white/</loc>
-    <lastmod>2024-07-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://SamuelDi.github.io/author/neil-j.-fraser/</loc>
-    <lastmod>2024-07-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://SamuelDi.github.io/tag/northwest-european-shelf/</loc>
-    <lastmod>2024-07-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://SamuelDi.github.io/publication/preprint/csr24/</loc>
-    <lastmod>2024-07-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://SamuelDi.github.io/publication_types/</loc>
-    <lastmod>2024-07-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://SamuelDi.github.io/fr/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://SamuelDi.github.io/publication_types/"
-                />
-  </url><url>
-    <loc>https://SamuelDi.github.io/publication/</loc>
-    <lastmod>2024-07-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://SamuelDi.github.io/fr/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://SamuelDi.github.io/publication/"
-                />
-  </url><url>
-    <loc>https://SamuelDi.github.io/</loc>
-    <lastmod>2024-07-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://SamuelDi.github.io/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://SamuelDi.github.io/"
-                />
-  </url><url>
-    <loc>https://SamuelDi.github.io/author/sam-tiefolo-diabate/</loc>
-    <lastmod>2024-07-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://SamuelDi.github.io/fr/author/sam-tiefolo-diabate/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://SamuelDi.github.io/author/sam-tiefolo-diabate/"
-                />
-  </url><url>
-    <loc>https://SamuelDi.github.io/tag/sea-level/</loc>
-    <lastmod>2024-07-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://SamuelDi.github.io/fr/tag/sea-level/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://SamuelDi.github.io/tag/sea-level/"
-                />
-  </url><url>
-    <loc>https://SamuelDi.github.io/tags/</loc>
-    <lastmod>2024-07-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://SamuelDi.github.io/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://SamuelDi.github.io/tags/"
-                />
-  </url><url>
     <loc>https://SamuelDi.github.io/post/</loc>
     <lastmod>2024-06-29T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -166,6 +38,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://SamuelDi.github.io/post/"
+                />
+  </url><url>
+    <loc>https://SamuelDi.github.io/</loc>
+    <lastmod>2024-06-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://SamuelDi.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://SamuelDi.github.io/"
                 />
   </url><url>
     <loc>https://SamuelDi.github.io/post/24-06-29/</loc>
@@ -208,123 +93,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://SamuelDi.github.io/post/22-05-08-ce22008/"
-                />
-  </url><url>
-    <loc>https://SamuelDi.github.io/talks/osm22/</loc>
-    <lastmod>2022-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://SamuelDi.github.io/fr/talks/osm22/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://SamuelDi.github.io/talks/osm22/"
-                />
-  </url><url>
-    <loc>https://SamuelDi.github.io/author/aurelie-duchez/</loc>
-    <lastmod>2022-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://SamuelDi.github.io/fr/author/aurelie-duchez/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://SamuelDi.github.io/author/aurelie-duchez/"
-                />
-  </url><url>
-    <loc>https://SamuelDi.github.io/author/didier-swingedouw/</loc>
-    <lastmod>2022-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://SamuelDi.github.io/fr/author/didier-swingedouw/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://SamuelDi.github.io/author/didier-swingedouw/"
-                />
-  </url><url>
-    <loc>https://SamuelDi.github.io/author/ivan-d.-haigh/</loc>
-    <lastmod>2022-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://SamuelDi.github.io/fr/author/ivan-d.-haigh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://SamuelDi.github.io/author/ivan-d.-haigh/"
-                />
-  </url><url>
-    <loc>https://SamuelDi.github.io/author/joel-jean-marie-hirschi/</loc>
-    <lastmod>2022-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://SamuelDi.github.io/fr/author/joel-jean-marie-hirschi/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://SamuelDi.github.io/author/joel-jean-marie-hirschi/"
-                />
-  </url><url>
-    <loc>https://SamuelDi.github.io/author/philip-j.-leadbitter/</loc>
-    <lastmod>2022-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://SamuelDi.github.io/fr/author/philip-j.-leadbitter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://SamuelDi.github.io/author/philip-j.-leadbitter/"
-                />
-  </url><url>
-    <loc>https://SamuelDi.github.io/talks/</loc>
-    <lastmod>2022-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://SamuelDi.github.io/fr/talks/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://SamuelDi.github.io/talks/"
-                />
-  </url><url>
-    <loc>https://SamuelDi.github.io/tag/tide-gauges/</loc>
-    <lastmod>2022-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://SamuelDi.github.io/fr/tag/tide-gauges/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://SamuelDi.github.io/tag/tide-gauges/"
-                />
-  </url><url>
-    <loc>https://SamuelDi.github.io/tag/western-boundary-currents/</loc>
-    <lastmod>2022-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://SamuelDi.github.io/fr/tag/western-boundary-currents/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://SamuelDi.github.io/tag/western-boundary-currents/"
                 />
   </url><url>
     <loc>https://SamuelDi.github.io/post/21-11-18-a4-annual-meeting/</loc>
@@ -379,6 +147,32 @@
                 href="https://SamuelDi.github.io/publication-type/2/"
                 />
   </url><url>
+    <loc>https://SamuelDi.github.io/author/aurelie-duchez/</loc>
+    <lastmod>2021-10-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://SamuelDi.github.io/fr/author/aurelie-duchez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://SamuelDi.github.io/author/aurelie-duchez/"
+                />
+  </url><url>
+    <loc>https://SamuelDi.github.io/authors/</loc>
+    <lastmod>2021-10-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://SamuelDi.github.io/fr/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://SamuelDi.github.io/authors/"
+                />
+  </url><url>
     <loc>https://SamuelDi.github.io/data/</loc>
     <lastmod>2021-10-22T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -390,6 +184,149 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://SamuelDi.github.io/data/"
+                />
+  </url><url>
+    <loc>https://SamuelDi.github.io/author/didier-swingedouw/</loc>
+    <lastmod>2021-10-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://SamuelDi.github.io/fr/author/didier-swingedouw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://SamuelDi.github.io/author/didier-swingedouw/"
+                />
+  </url><url>
+    <loc>https://SamuelDi.github.io/author/gerard-d.-mccarthy/</loc>
+    <lastmod>2021-10-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://SamuelDi.github.io/fr/author/gerard-d.-mccarthy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://SamuelDi.github.io/author/gerard-d.-mccarthy/"
+                />
+  </url><url>
+    <loc>https://SamuelDi.github.io/author/ivan-d.-haigh/</loc>
+    <lastmod>2021-10-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://SamuelDi.github.io/fr/author/ivan-d.-haigh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://SamuelDi.github.io/author/ivan-d.-haigh/"
+                />
+  </url><url>
+    <loc>https://SamuelDi.github.io/author/joel-jean-marie-hirschi/</loc>
+    <lastmod>2021-10-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://SamuelDi.github.io/fr/author/joel-jean-marie-hirschi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://SamuelDi.github.io/author/joel-jean-marie-hirschi/"
+                />
+  </url><url>
+    <loc>https://SamuelDi.github.io/author/philip-j.-leadbitter/</loc>
+    <lastmod>2021-10-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://SamuelDi.github.io/fr/author/philip-j.-leadbitter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://SamuelDi.github.io/author/philip-j.-leadbitter/"
+                />
+  </url><url>
+    <loc>https://SamuelDi.github.io/publication_types/</loc>
+    <lastmod>2021-10-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://SamuelDi.github.io/fr/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://SamuelDi.github.io/publication_types/"
+                />
+  </url><url>
+    <loc>https://SamuelDi.github.io/publication/</loc>
+    <lastmod>2021-10-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://SamuelDi.github.io/fr/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://SamuelDi.github.io/publication/"
+                />
+  </url><url>
+    <loc>https://SamuelDi.github.io/author/sam-tiefolo-diabate/</loc>
+    <lastmod>2021-10-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://SamuelDi.github.io/fr/author/sam-tiefolo-diabate/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://SamuelDi.github.io/author/sam-tiefolo-diabate/"
+                />
+  </url><url>
+    <loc>https://SamuelDi.github.io/tag/sea-level/</loc>
+    <lastmod>2021-10-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://SamuelDi.github.io/fr/tag/sea-level/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://SamuelDi.github.io/tag/sea-level/"
+                />
+  </url><url>
+    <loc>https://SamuelDi.github.io/tags/</loc>
+    <lastmod>2021-10-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://SamuelDi.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://SamuelDi.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://SamuelDi.github.io/tag/tide-gauges/</loc>
+    <lastmod>2021-10-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://SamuelDi.github.io/fr/tag/tide-gauges/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://SamuelDi.github.io/tag/tide-gauges/"
                 />
   </url><url>
     <loc>https://SamuelDi.github.io/publication/journal-article/os-17-1449-2021/</loc>
@@ -405,17 +342,17 @@
                 href="https://SamuelDi.github.io/publication/journal-article/os-17-1449-2021/"
                 />
   </url><url>
-    <loc>https://SamuelDi.github.io/talks/egu21/</loc>
-    <lastmod>2021-04-26T00:00:00+00:00</lastmod>
+    <loc>https://SamuelDi.github.io/tag/western-boundary-currents/</loc>
+    <lastmod>2021-10-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://SamuelDi.github.io/fr/talks/egu21/"
+                href="https://SamuelDi.github.io/fr/tag/western-boundary-currents/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://SamuelDi.github.io/talks/egu21/"
+                href="https://SamuelDi.github.io/tag/western-boundary-currents/"
                 />
   </url><url>
     <loc>https://SamuelDi.github.io/post/21-04-14-turning-around-the-gauge-in-courtown/</loc>
@@ -471,18 +408,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://SamuelDi.github.io/data/march2021/"
-                />
-  </url><url>
-    <loc>https://SamuelDi.github.io/talks/example/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://SamuelDi.github.io/fr/talks/example/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://SamuelDi.github.io/talks/example/"
                 />
   </url><url>
     <loc>https://SamuelDi.github.io/categories/</loc>
